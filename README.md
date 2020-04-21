@@ -16,10 +16,10 @@ A curated list of anime streaming/downloading websites.
 
 ## Contents
 
-### Anime
+### Anime Streaming Sites
 
-* [9anime.to](https://www2.9anime.to/)
-* [ani-premium.com](http://ani-premium.com/)
+* [9anime.to](https://9anime.to/)
+* [ani-premium.com](http://ani-premium.com/) Dead
 * [anilinkz.to](http://anilinkz.to/)
 * [anime-loads.org](https://www.anime-loads.org/) - Contains German Dubs/Subs
 * [anime-planet.com](https://www.anime-planet.com/)
@@ -66,10 +66,10 @@ A curated list of anime streaming/downloading websites.
 * [thehylia.com](https://anime.thehylia.com/)
 * [watchcartoononline.io](https://www.watchcartoononline.io/)
 
-### Anime (mobile app)
+### Anime Mobile Apps
 * [#Animania](http://www.mobi24.net/#anime)
 
-### Torrents
+### Public Torrent Trackers
 * [animetosho.org](https://animetosho.org) - Torrent, NZB, DDL
 * [anidex.info](https://anidex.info/)
 * [animetorrents.me](https://animetorrents.me/)
@@ -81,7 +81,7 @@ A curated list of anime streaming/downloading websites.
 * [nyaa.si](https://nyaa.si/)
 * [nyaapantsu](https://nyaa.pantsu.cat/)
 
-### Private trackers
+### Private Torrent trackers
 
  * [animebytes.tv](https://animebytes.tv/)
  * [animetorrents.me](https://animetorrents.me/)
