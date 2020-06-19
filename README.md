@@ -15,6 +15,18 @@ A curated list of anime streaming/downloading websites.
 
 
 ## Contents
+* General
+ - [Torrent Trackers]()
+ - [Forums]()
+* Anime Series and Movies
+ - [Streaming Sites]()
+ - [Direct Download Sites]()
+* Manga
+ - [Sites]()
+* Anime Music
+ - [Sites]()
+*  
+ - [Credits]()
 
 ### Anime Streaming Sites
 
