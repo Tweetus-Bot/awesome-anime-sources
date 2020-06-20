@@ -42,9 +42,16 @@ A curated list of anime streaming/downloading websites.
 
 ### General
 ##### Torrent Trackers
-  - Private Trackers
-    * [animebytes.tv](https://animebytes.tv/)
-    * [animetorrents.me](https://animetorrents.me/)
+  - Private Trackers 
+  Some torrent trackers might always be open for registration, you can also look out for opensignups at [r/OpenSignups](https://www.reddit.com/r/OpenSignups/), ask for invites at [r/Invites](https://www.reddit.com/r/Invites/) or get invited by your friends, and family members. You should follow rules and regulations in order to survive in a private tracker. For further information, read [this](https://wiki.installgentoo.com/wiki/Private_trackers) and [this](https://privatetrackers.fandom.com/wiki/Rules).
+  
+    * [AnimBytes](https://animebytes.tv/) - Best Anime tracker out there
+    * [AnimeLand](http://animeland.su/) - Russian private torrent tracker for Anime
+	* [AnimeTorrents](https://animetorrents.me/) - Definitive source for Anime and Manga
+	* [BakaBt](https://bakabt.me/)
+	* [Mansão dos Animes](https://bt.mdan.org/) - Brazilian private torrent tracker for Anime
+	* [Snow](https://www.skyey2.com/) - Chinese private torrent tracker for Anime
+	* [U2](https://u2.dmhy.org/)
   - Publice Trackers
     * [animetosho.org](https://animetosho.org) - Torrent, NZB, DDL
     * [anidex.info](https://anidex.info/)
@@ -56,6 +63,7 @@ A curated list of anime streaming/downloading websites.
     * [tokyotosho.info](https://www.tokyotosho.info/)
     * [nyaa.si](https://nyaa.si/)
     * [nyaapantsu](https://nyaa.pantsu.cat/)
+	* [](https://www.shanaproject.com/)
 ##### Usenet
   - Usenet Indexers
   - Usenet Providers
@@ -157,3 +165,10 @@ A curated list of anime streaming/downloading websites.
    
 ### Anime Mobile Apps
 * [#Animania](http://www.mobi24.net/#anime)
+
+### Credits
+1. To the original creator of this repository.
+2. [Opentrackers](https://opentrackers.org/category/anime/)
+3. Subreddits like [r/trackers](https://www.reddit.com/r/trackers), [r/OpenSignups](https://www.reddit.com/r/OpenSignups/), [r/Invites](https://www.reddit.com/r/Invites/) and [r/animepiracy]()
+4. https://www.reddit.com/r/trackers/comments/68oj29/any_good_anime_trackers_beside_animetorrentsnyaa/
+5. https://www.reddit.com/r/trackers/comments/abqqpa/best_public_anime_tracker/
