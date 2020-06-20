@@ -15,6 +15,7 @@ A curated list of anime streaming/downloading websites.
 
 
 ## Contents
+-------------
 * [General](https://github.com/Tweetus-Bot/awesome-anime-sources/#general)
   * [Torrent Trackers](https://github.com/Tweetus-Bot/awesome-anime-sources/#torrent-trackers)
   * [Usenet](https://github.com/Tweetus-Bot/awesome-anime-sources/#usenet)
@@ -37,35 +38,48 @@ A curated list of anime streaming/downloading websites.
   * [Music Sites](https://github.com/Tweetus-Bot/awesome-anime-sources/#music-sites)
 * [Games](https://github.com/Tweetus-Bot/awesome-anime-sources/#games)
   * [Game Sites](https://github.com/Tweetus-Bot/awesome-anime-sources/#game-sites)
-* [NSFW](https://github.com/Tweetus-Bot/awesome-anime-sources/#nsfw.md)  
+* [NSFW](https://github.com/Tweetus-Bot/awesome-anime-sources/blob/master/nsfw.md)
+* [Tools and Misc.]()  
 * [Credits](https://github.com/Tweetus-Bot/awesome-anime-sources/#credits)
 
 ### General
-______________________________________________________________________________________________________
-
-##### Torrent Trackers
-  * Private Trackers 
+-------------
+#### Torrent Trackers
+  * Private Trackers
   Some torrent trackers might always be open for registration, you can also look out for opensignups at [r/OpenSignups](https://www.reddit.com/r/OpenSignups/), ask for invites at [r/Invites](https://www.reddit.com/r/Invites/) or get invited by your friends, and family members. You should follow rules and regulations in order to survive in a private tracker. For further information, read [this](https://wiki.installgentoo.com/wiki/Private_trackers) and [this](https://privatetrackers.fandom.com/wiki/Rules).
   
-    * [AnimBytes](https://animebytes.tv/) * Best Anime tracker out there
-    * [AnimeLand](http://animeland.su/) * Russian private torrent tracker for Anime
-	* [AnimeTorrents](https://animetorrents.me/) * Definitive source for Anime and Manga
-	* [BakaBt](https://bakabt.me/)
-	* [Mansão dos Animes](https://bt.mdan.org/) * Brazilian private torrent tracker for Anime
-	* [Snow](https://www.skyey2.com/) * Chinese private torrent tracker for Anime
-	* [U2](https://u2.dmhy.org/)
+    * [3arbya](https://tracker.3arbya.info/) - Arabic private tracker for Anime
+	* [AnimeBytes](https://animebytes.tv/)🥇 - Best Anime tracker out there
+	* [AnimeDatenbank](http://adbt.it.cx/) - German private torrent tracker for Anime
+	* [AniDub](http://tr.anidub.com/) - Russian private torrent tracker for Anime
+    * [AnimeLand](http://animeland.su/) - Russian private torrent tracker for Anime
+	* [AnimeLatino](http://www.animelatino.org/) - Spanish private torrent tracker for Anime
+	* [AnimeLayer](http://animelayer.ru/) - Russian private torrent tracker for Anime
+	* [AnimeTorrents](https://animetorrents.me/)🥉 - Definitive source for Anime and Manga
+	* [AnimeNSK](https://www.ansktracker.net/) - Portuguese private torrent tracker for Anime
+	* [BakaBt](https://bakabt.me/)🥈 - Private torrent tracker for high quality Manga and Anime
+	* [Mansão dos Animes](https://bt.mdan.org/) - Brazilian private torrent tracker for Anime
+	* [Mononoke-BT](http://mononoke-bt.org/) - French private torrent tracker for Anime
+	* [OpenDub](http://www.opendub.org/) - Russian private tracker for Anime
+	* [Shakaw](https://tracker.shakaw.com.br/) - Brazilian private torrent tracker for Anime
+	* [Snow](https://www.skyey2.com/) - Chinese private torrent tracker for Anime
+	* [U2](https://u2.dmhy.org/) - Chinese private torrent tracker for Anime
+	* [UniOtaku](https://tracker.uniotaku.com/) - Brazilian private torrent tracker for Anime
+	* [UniónFansub](http://foro.unionfansub.com/) - Spanish private torrent tracker for Anime
+ 	
   * Publice Trackers
-    * [animetosho.org](https://animetosho.org) * Torrent, NZB, DDL
+  Always use a VPN, which has a history of no logs, while torrenting. Sometimes, your ISP might have blocked a site, you can use a VPN to access the site. It is recommended to use Ad-blockers to avoid malicious ads and pop-ups.
+  
     * [anidex.info](https://anidex.info/)
-    * [animetorrents.me](https://animetorrents.me/)
+	* [animetosho.org](https://animetosho.org)
     * [anirena.com](https://www.anirena.com/)
     * [anisearch.ru](https://anisearch.ru/)
-    * [horriblesubs.info](http://horriblesubs.info/) * Best anime torrents.
+    * [horriblesubs.info](http://horriblesubs.info/) - Best anime torrents.
     * [minglong.org](http://tracker.minglong.org:8080/)
-    * [tokyotosho.info](https://www.tokyotosho.info/)
-    * [nyaa.si](https://nyaa.si/)
+	* [nyaa.si](https://nyaa.si/)
     * [nyaapantsu](https://nyaa.pantsu.cat/)
-	* [](https://www.shanaproject.com/)
+    * [tokyotosho.info](https://www.tokyotosho.info/)
+	* [Shana Project](https://www.shanaproject.com/)
 
 ##### Usenet
   * Usenet Indexers
@@ -177,9 +191,15 @@ ________________________________________________________________________________
 ### Anime Mobile Apps
 * [#Animania](http://www.mobi24.net/#anime)
 
+### Tools
+
+https://notify.moe/
+
 ### Credits
 1. To the original creator of this repository.
 2. [Opentrackers](https://opentrackers.org/category/anime/)
 3. Subreddits like [r/trackers](https://www.reddit.com/r/trackers), [r/OpenSignups](https://www.reddit.com/r/OpenSignups/), [r/Invites](https://www.reddit.com/r/Invites/) and [r/animepiracy]()
 4. https://www.reddit.com/r/trackers/comments/68oj29/any_good_anime_trackers_beside_animetorrentsnyaa/
 5. https://www.reddit.com/r/trackers/comments/abqqpa/best_public_anime_tracker/
+6. [TorrentInvites](http://torrentinvites.org/)
+7. [torrents.io](https://torrents.io/)
