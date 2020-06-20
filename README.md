@@ -25,8 +25,7 @@ A curated list of anime streaming/downloading websites.
   - [Sites]()
 * Anime Music
   - [Sites]()
-*  
-  - [Credits]()
+* [Credits]()
 
 ### Anime Streaming Sites
 
