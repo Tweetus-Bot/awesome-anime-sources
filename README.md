@@ -16,73 +16,78 @@ A curated list of anime streaming/downloading websites.
 
 ## Contents
 * [General](https://github.com/Tweetus-Bot/awesome-anime-sources/#general)
-  - [Torrent Trackers](https://github.com/Tweetus-Bot/awesome-anime-sources/#torrent-trackers)
-  - [Usenet](https://github.com/Tweetus-Bot/awesome-anime-sources/#usenet)
-  - [Forums](https://github.com/Tweetus-Bot/awesome-anime-sources/#forums)
-  - [Discussion Forums](https://github.com/Tweetus-Bot/awesome-anime-sources/#discussion-forums)
+  * [Torrent Trackers](https://github.com/Tweetus-Bot/awesome-anime-sources/#torrent-trackers)
+  * [Usenet](https://github.com/Tweetus-Bot/awesome-anime-sources/#usenet)
+  * [Forums](https://github.com/Tweetus-Bot/awesome-anime-sources/#forums)
+  * [Discussion Forums](https://github.com/Tweetus-Bot/awesome-anime-sources/#discussion-forums)
 * [Anime Series and Movies](https://github.com/Tweetus-Bot/awesome-anime-sources/#anime-series-and-movies)
-  - [Streaming Sites](https://github.com/Tweetus-Bot/awesome-anime-sources/#streaming-sites)
-  - [Direct Download Sites](https://github.com/Tweetus-Bot/awesome-anime-sources/#direct-download-sites)
-  - [Mobile Apps](https://github.com/Tweetus-Bot/awesome-anime-sources/#mobile-apps)
+  * [Streaming Sites](https://github.com/Tweetus-Bot/awesome-anime-sources/#streaming-sites)
+  * [Direct Download Sites](https://github.com/Tweetus-Bot/awesome-anime-sources/#direct-download-sites)
+  * [Mobile Apps](https://github.com/Tweetus-Bot/awesome-anime-sources/#mobile-apps)
 * [Manga](https://github.com/Tweetus-Bot/awesome-anime-sources/#manga)
-  - [Manga Sites](https://github.com/Tweetus-Bot/awesome-anime-sources/#manga-sites)
-  - [Manga Mobile Apps](https://github.com/Tweetus-Bot/awesome-anime-sources/#manga-mobile-apps)
+  * [Manga Sites](https://github.com/Tweetus-Bot/awesome-anime-sources/#manga-sites)
+  * [Manga Mobile Apps](https://github.com/Tweetus-Bot/awesome-anime-sources/#manga-mobile-apps)
 * [Light Novels](https://github.com/Tweetus-Bot/awesome-anime-sources/#light-novels)
-  - [Light Novels Sites](https://github.com/Tweetus-Bot/awesome-anime-sources/#light-novels-sites)
+  * [Light Novels Sites](https://github.com/Tweetus-Bot/awesome-anime-sources/#light-novels-sites)
 * [Graphic Novels](https://github.com/Tweetus-Bot/awesome-anime-sources/#graphic-novels)
-  - [Graphic Novels Sites](https://github.com/Tweetus-Bot/awesome-anime-sources/#graphic-novels-sites)
+  * [Graphic Novels Sites](https://github.com/Tweetus-Bot/awesome-anime-sources/#graphic-novels-sites)
 * [Doujinshi](https://github.com/Tweetus-Bot/awesome-anime-sources/#doujinshi)
-  - [Doujinshi Sites](https://github.com/Tweetus-Bot/awesome-anime-sources/#doujinshi-sites)  
+  * [Doujinshi Sites](https://github.com/Tweetus-Bot/awesome-anime-sources/#doujinshi-sites)  
 * [Anime Music](https://github.com/Tweetus-Bot/awesome-anime-sources/#anime-music)
-  - [Music Sites](https://github.com/Tweetus-Bot/awesome-anime-sources/#music-sites)
+  * [Music Sites](https://github.com/Tweetus-Bot/awesome-anime-sources/#music-sites)
 * [Games](https://github.com/Tweetus-Bot/awesome-anime-sources/#games)
-  - [Game Sites](https://github.com/Tweetus-Bot/awesome-anime-sources/#game-sites)
+  * [Game Sites](https://github.com/Tweetus-Bot/awesome-anime-sources/#game-sites)
 * [NSFW](https://github.com/Tweetus-Bot/awesome-anime-sources/#nsfw.md)  
 * [Credits](https://github.com/Tweetus-Bot/awesome-anime-sources/#credits)
 
 ### General
+
 ##### Torrent Trackers
-  - Private Trackers 
+  * Private Trackers 
   Some torrent trackers might always be open for registration, you can also look out for opensignups at [r/OpenSignups](https://www.reddit.com/r/OpenSignups/), ask for invites at [r/Invites](https://www.reddit.com/r/Invites/) or get invited by your friends, and family members. You should follow rules and regulations in order to survive in a private tracker. For further information, read [this](https://wiki.installgentoo.com/wiki/Private_trackers) and [this](https://privatetrackers.fandom.com/wiki/Rules).
   
-    * [AnimBytes](https://animebytes.tv/) - Best Anime tracker out there
-    * [AnimeLand](http://animeland.su/) - Russian private torrent tracker for Anime
-	* [AnimeTorrents](https://animetorrents.me/) - Definitive source for Anime and Manga
+    * [AnimBytes](https://animebytes.tv/) * Best Anime tracker out there
+    * [AnimeLand](http://animeland.su/) * Russian private torrent tracker for Anime
+	* [AnimeTorrents](https://animetorrents.me/) * Definitive source for Anime and Manga
 	* [BakaBt](https://bakabt.me/)
-	* [Mansão dos Animes](https://bt.mdan.org/) - Brazilian private torrent tracker for Anime
-	* [Snow](https://www.skyey2.com/) - Chinese private torrent tracker for Anime
+	* [Mansão dos Animes](https://bt.mdan.org/) * Brazilian private torrent tracker for Anime
+	* [Snow](https://www.skyey2.com/) * Chinese private torrent tracker for Anime
 	* [U2](https://u2.dmhy.org/)
-  - Publice Trackers
-    * [animetosho.org](https://animetosho.org) - Torrent, NZB, DDL
+  * Publice Trackers
+    * [animetosho.org](https://animetosho.org) * Torrent, NZB, DDL
     * [anidex.info](https://anidex.info/)
     * [animetorrents.me](https://animetorrents.me/)
     * [anirena.com](https://www.anirena.com/)
     * [anisearch.ru](https://anisearch.ru/)
-    * [horriblesubs.info](http://horriblesubs.info/) - Best anime torrents.
+    * [horriblesubs.info](http://horriblesubs.info/) * Best anime torrents.
     * [minglong.org](http://tracker.minglong.org:8080/)
     * [tokyotosho.info](https://www.tokyotosho.info/)
     * [nyaa.si](https://nyaa.si/)
     * [nyaapantsu](https://nyaa.pantsu.cat/)
 	* [](https://www.shanaproject.com/)
+
 ##### Usenet
-  - Usenet Indexers
-  - Usenet Providers
+  * Usenet Indexers
+  * Usenet Providers
+
 ##### Forums
-  - Private Forums
-  - Semi-Private Forums
-  - Public Forums
+  * Private Forums
+  * Semi-Private Forums
+  * Public Forums
+
 ##### Discussion Forums
-  - Reddit
-  - Telegram
-  - Discord
-  - Imageboard Sites
+  * Reddit
+  * Telegram
+  * Discord
+  * Imageboard Sites
   
 ### Anime Series and Movies
+
 ##### Streaming Sites
   * [9anime.to](https://9anime.to/)
   * [ani-premium.com](http://ani-premium.com/) Dead
   * [anilinkz.to](http://anilinkz.to/)
-  * [anime-loads.org](https://www.anime-loads.org/) - Contains German Dubs/Subs
+  * [anime-loads.org](https://www.anime-loads.org/) * Contains German Dubs/Subs
   * [anime-planet.com](https://www.anime-planet.com/)
   * [anime-rebirth.com](http://anime-rebirth.com/)
   * [anime1.com](http://www.anime1.com/)
@@ -126,6 +131,7 @@ A curated list of anime streaming/downloading websites.
   * [station.f-n.me](https://station.f-n.me/)
   * [thehylia.com](https://anime.thehylia.com/)
   * [watchcartoononline.io](https://www.watchcartoononline.io/)
+
 ##### Direct Download Sites
   * [anime2enjoy.com](http://anime2enjoy.com/)
   * [animeaak.com](http://www.animeaak.com/)
@@ -138,9 +144,11 @@ A curated list of anime streaming/downloading websites.
   * [darklegends60mb.org](http://www.darklegends60mb.org/)
   * [hi10anime.com](http://hi10anime.com/)
   * [soulreaperzone.com](http://www.soulreaperzone.com/)
+
 ##### Mobile Apps
 
 ### Manga
+
 ##### Manga Sites
   * [bato.to](http://bato.to/)
   * [bulumanga.com](http://bulumanga.com/)
@@ -158,11 +166,13 @@ A curated list of anime streaming/downloading websites.
   * [mangastream.com](http://mangastream.com/)
   * [ReadManga Today](https://www.readmng.com/)
   * [zingbox.me](http://www.zingbox.me/)
+
 ##### Manga Mobile Apps
   * [mangazone](https://play.google.com/store/apps/details?id=com.ng.mangazone&hl=en)
   * [Manga Rock](https://play.google.com/store/apps/details?id=com.notabasement.mangarock.android.titan)
   * [Tachiyomi](https://github.com/inorichi/tachiyomi)
    
+
 ### Anime Mobile Apps
 * [#Animania](http://www.mobi24.net/#anime)
 
