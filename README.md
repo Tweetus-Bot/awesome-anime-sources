@@ -15,7 +15,7 @@ A curated list of anime streaming/downloading websites.
 
 
 ## Contents
--------------
+
 * [General](https://github.com/Tweetus-Bot/awesome-anime-sources/#general)
   * [Torrent Trackers](https://github.com/Tweetus-Bot/awesome-anime-sources/#torrent-trackers)
   * [Usenet](https://github.com/Tweetus-Bot/awesome-anime-sources/#usenet)
@@ -48,8 +48,6 @@ A curated list of anime streaming/downloading websites.
   
   * Private Trackers
 
-Some torrent trackers might always be open for registration, you can also look out for opensignups at [r/OpenSignups](https://www.reddit.com/r/OpenSignups/), ask for invites at [r/Invites](https://www.reddit.com/r/Invites/) or get invited by your friends, and family members. You should follow rules and regulations in order to survive in a private tracker. For further information, read [this](https://wiki.installgentoo.com/wiki/Private_trackers) and [this](https://privatetrackers.fandom.com/wiki/Rules).
-  
     * [3arbya](https://tracker.3arbya.info/) - Arabic private tracker for Anime
 	* [AnimeBytes](https://animebytes.tv/)🥇 - Best Anime tracker out there
 	* [AnimeDatenbank](http://adbt.it.cx/) - German private torrent tracker for Anime
@@ -68,10 +66,10 @@ Some torrent trackers might always be open for registration, you can also look o
 	* [U2](https://u2.dmhy.org/) - Chinese private torrent tracker for Anime
 	* [UniOtaku](https://tracker.uniotaku.com/) - Brazilian private torrent tracker for Anime
 	* [UniónFansub](http://foro.unionfansub.com/) - Spanish private torrent tracker for Anime
+	
+>Some torrent trackers might always be open for registration, you can also look out for opensignups at [r/OpenSignups](https://www.reddit.com/r/OpenSignups/), ask for invites at [r/Invites](https://www.reddit.com/r/Invites/) or get invited by your friends, and family members. You should follow rules and regulations in order to survive in a private tracker. For further information, read [this](https://wiki.installgentoo.com/wiki/Private_trackers) and [this](https://privatetrackers.fandom.com/wiki/Rules).	
  	
   * Publice Trackers
-
-Always use a VPN, which has a history of no logs, while torrenting. Sometimes, your ISP might have blocked a site, you can use a VPN to access the site. It is recommended to use Ad-blockers to avoid malicious ads and pop-ups.
   
     * [anidex.info](https://anidex.info/)
 	* [animetosho.org](https://animetosho.org)
@@ -83,6 +81,8 @@ Always use a VPN, which has a history of no logs, while torrenting. Sometimes, y
     * [nyaapantsu](https://nyaa.pantsu.cat/)
     * [tokyotosho.info](https://www.tokyotosho.info/)
 	* [Shana Project](https://www.shanaproject.com/)
+	
+>Always use a VPN, which has a history of no logs, while torrenting. Sometimes, your ISP might have blocked a site, you can use a VPN to access the site. It is recommended to use Ad-blockers to avoid malicious ads and pop-ups.	
 
 ##### Usenet
   * Usenet Indexers
