@@ -45,6 +45,7 @@ A curated list of anime streaming/downloading websites.
 ### General
 
 #### Torrent Trackers
+  
   * Private Trackers
 
 Some torrent trackers might always be open for registration, you can also look out for opensignups at [r/OpenSignups](https://www.reddit.com/r/OpenSignups/), ask for invites at [r/Invites](https://www.reddit.com/r/Invites/) or get invited by your friends, and family members. You should follow rules and regulations in order to survive in a private tracker. For further information, read [this](https://wiki.installgentoo.com/wiki/Private_trackers) and [this](https://privatetrackers.fandom.com/wiki/Rules).
