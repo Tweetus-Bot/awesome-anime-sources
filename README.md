@@ -46,7 +46,7 @@ A curated list of anime streaming/downloading websites.
 -------------
 #### Torrent Trackers
   * Private Trackers
-  Some torrent trackers might always be open for registration, you can also look out for opensignups at [r/OpenSignups](https://www.reddit.com/r/OpenSignups/), ask for invites at [r/Invites](https://www.reddit.com/r/Invites/) or get invited by your friends, and family members. You should follow rules and regulations in order to survive in a private tracker. For further information, read [this](https://wiki.installgentoo.com/wiki/Private_trackers) and [this](https://privatetrackers.fandom.com/wiki/Rules).
+Some torrent trackers might always be open for registration, you can also look out for opensignups at [r/OpenSignups](https://www.reddit.com/r/OpenSignups/), ask for invites at [r/Invites](https://www.reddit.com/r/Invites/) or get invited by your friends, and family members. You should follow rules and regulations in order to survive in a private tracker. For further information, read [this](https://wiki.installgentoo.com/wiki/Private_trackers) and [this](https://privatetrackers.fandom.com/wiki/Rules).
   
     * [3arbya](https://tracker.3arbya.info/) - Arabic private tracker for Anime
 	* [AnimeBytes](https://animebytes.tv/)🥇 - Best Anime tracker out there
@@ -68,7 +68,7 @@ A curated list of anime streaming/downloading websites.
 	* [UniónFansub](http://foro.unionfansub.com/) - Spanish private torrent tracker for Anime
  	
   * Publice Trackers
-  Always use a VPN, which has a history of no logs, while torrenting. Sometimes, your ISP might have blocked a site, you can use a VPN to access the site. It is recommended to use Ad-blockers to avoid malicious ads and pop-ups.
+Always use a VPN, which has a history of no logs, while torrenting. Sometimes, your ISP might have blocked a site, you can use a VPN to access the site. It is recommended to use Ad-blockers to avoid malicious ads and pop-ups.
   
     * [anidex.info](https://anidex.info/)
 	* [animetosho.org](https://animetosho.org)
