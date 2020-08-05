@@ -1,6 +1,6 @@
-# awesome-anime-sources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# awesome-weeb-sources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of anime streaming/downloading websites.
+A curated list of weeb sources.
 
 ### Motivation
 
@@ -69,24 +69,30 @@ A curated list of anime streaming/downloading websites.
 	
 >Some torrent trackers might always be open for registration, you can also look out for opensignups at [r/OpenSignups](https://www.reddit.com/r/OpenSignups/), ask for invites at [r/Invites](https://www.reddit.com/r/Invites/) or get invited by your friends, and family members. You should follow rules and regulations in order to survive in a private tracker. For further information, read [this](https://wiki.installgentoo.com/wiki/Private_trackers) and [this](https://privatetrackers.fandom.com/wiki/Rules).	
  	
-  * Publice Trackers
+  * Public Trackers
   
-    * [anidex.info](https://anidex.info/)
-	* [animetosho.org](https://animetosho.org)
-    * [anirena.com](https://www.anirena.com/)
-    * [anisearch.ru](https://anisearch.ru/)
-    * [horriblesubs.info](http://horriblesubs.info/) - Best anime torrents.
-    * [minglong.org](http://tracker.minglong.org:8080/)
-	* [nyaa.si](https://nyaa.si/)
-    * [nyaapantsu](https://nyaa.pantsu.cat/)
-    * [tokyotosho.info](https://www.tokyotosho.info/)
-	* [Shana Project](https://www.shanaproject.com/)
-	
+    * [AniDex](https://anidex.info/)🥉 - Public torrent tracker and indexer mostly for English fansub groups.
+	* [AnimeTosho](https://animetosho.org)- Anime DDL+NZB mirror. Also, collects torrents from 4 other torrent sites.
+    * [AniRena](https://www.anirena.com/) - Your source for latest Anime/Japanese related torrents!
+	* [Hi10Anime](https://hi10anime.com/) - High Quality 10-bit Anime Encodes.
+    * [HorribleSubs](http://horriblesubs.info/)  - So bad yet so good.
+    * [minglong](http://tracker.minglong.org:8080/) - Minglong BitTorrent Tracker.
+	* [Nyaa](https://nyaa.si/)🥇  - Best public torrent tracker for Anime
+    * [NyaaPantsu](https://nyaa.pantsu.cat/) - Another clone of Nyaa.
+    * [TokyoTosho](https://www.tokyotosho.info/)🥈 - A BitTorrent Library for Japanese Media.
+	* [ShanaProject](https://www.shanaproject.com/) - Automate your anime downloads.
+ 	
 >Always use a VPN, which has a history of no logs, while torrenting. Sometimes, your ISP might have blocked a site, you can use a VPN to access the site. It is recommended to use Ad-blockers to avoid malicious ads and pop-ups.	
 
 ##### Usenet
   * Usenet Indexers
+	* 
+	* 
+	* 
+	* 
+	*
   * Usenet Providers
+  * Usenet Search Engines
 
 ##### Forums
   * Private Forums
@@ -98,27 +104,19 @@ A curated list of anime streaming/downloading websites.
   * Telegram
   * Discord
   * Imageboard Sites
+  * General Sites for Weebs
+	* [anisearch](https://www.anisearch.com/)
   
 ### Anime Series and Movies
 
 ##### Streaming Sites
   * [9anime.to](https://9anime.to/)
-  * [ani-premium.com](http://ani-premium.com/) Dead
-  * [anilinkz.to](http://anilinkz.to/)
-  * [anime-loads.org](https://www.anime-loads.org/) * Contains German Dubs/Subs
-  * [anime-planet.com](https://www.anime-planet.com/)
-  * [anime-rebirth.com](http://anime-rebirth.com/)
-  * [anime1.com](http://www.anime1.com/)
-  * [animecross.net](http://www.animecross.net/)
-  * [animedreaming.tv](http://www.animedreaming.tv/)
-  * [animeflavour.com](http://animeflavor.com/)
-  * [animefreak.tv](http://www.animefreak.tv/)
-  * [animefrost.co](http://animefrost.co/)
-  * [animeget.io](http://animeget.io/)
-  * [animekaizoku.com](https://animekaizoku.com/)
-  * [animenova.org](http://animenova.org/)
-  * [animeonhand.com](http://www.animeonhand.com/)
-  * [animeonlinehere.net](http://animeonlinehere.net/)
+  * [aniwatcher](https://aniwatcher.com/)
+  * [anime-loads](https://www.anime-loads.org/)
+  * [anime-planet](https://www.anime-planet.com/)
+  * [anime1](http://www.anime1.com/)
+  * [animefreak](http://www.animefreak.tv/)
+  * [animeget](http://www1.animeget.net/)
   * [animepahe.com](https://animepahe.com/)
   * [animeram.cc](https://ww2.animeram.cc/)
   * [animered.me](http://animered.me/)
@@ -155,6 +153,7 @@ A curated list of anime streaming/downloading websites.
   * [animeaak.com](http://www.animeaak.com/)
   * [animechiby.com](http://www.animechiby.com/)
   * [animecruzers.com](http://animecruzers.com/)
+  * [animekaizoku.com](https://animekaizoku.com/)
   * [animencodes.com](http://animencodes.com)
   * [animeout.xyz](https://www.animeout.xyz/)
   * [animesubtitle.com](http://animesubtitle.com/)
@@ -201,7 +200,7 @@ https://notify.moe/
 ### Credits
 1. To the original creator of this repository.
 2. [Opentrackers](https://opentrackers.org/category/anime/)
-3. Subreddits like [r/trackers](https://www.reddit.com/r/trackers), [r/OpenSignups](https://www.reddit.com/r/OpenSignups/), [r/Invites](https://www.reddit.com/r/Invites/) and [r/animepiracy]()
+3. Subreddits like [r/trackers](https://www.reddit.com/r/trackers), [r/OpenSignups](https://www.reddit.com/r/OpenSignups/), [r/Invites](https://www.reddit.com/r/Invites/) and [r/animepiracy](https://www.reddit.com/r/animepiracy/)
 4. https://www.reddit.com/r/trackers/comments/68oj29/any_good_anime_trackers_beside_animetorrentsnyaa/
 5. https://www.reddit.com/r/trackers/comments/abqqpa/best_public_anime_tracker/
 6. [TorrentInvites](http://torrentinvites.org/)
